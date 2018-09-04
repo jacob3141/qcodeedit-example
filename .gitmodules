@@ -1,0 +1,3 @@
+[submodule "qcodeedit"]
+	path = qcodeedit
+	url = https://github.com/jacob3141/qcodeedit.git
